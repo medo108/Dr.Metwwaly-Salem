@@ -25,7 +25,7 @@
 
     }
     .name:hover{
-        transform: scale(1.03) skew(5deg);
+        transform: scale(1.03) ;
     }
     
 }
@@ -34,7 +34,7 @@
     background-size: cover;
     height: 400px;
     text-align: center;
-    transform: scale(1.06) skew(10deg);
+    transform: scale(1.06) ;
     border-color: grey;
 
 
